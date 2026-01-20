@@ -1,4 +1,4 @@
-# DormDash (FoodMate)
+# FoodMate
 
 FoodMate is a mobile food ordering and delivery app built with Expo Router and React Native. The project is part of a study-led entrepreneurship acceleration initiative supervised by **Prof. Desmond Yau Chat TSOI**. Core development is by **Pang Zi Yang** ([ziyang04](https://github.com/ziyang04)) and collaborators.
 
